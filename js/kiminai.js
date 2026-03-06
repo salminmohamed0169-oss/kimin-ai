@@ -8,7 +8,7 @@
         })();
 
         // === API CONFIGURATION ===
-        const API_KEY = "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";
+        const API_KEY = "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";
         const API_URL = "https://openrouter.ai/api/v1/chat/completions";
 
         // === DOM ELEMENTS ===
@@ -716,6 +716,7 @@ document.addEventListener('keydown', (e) => {
     }
 
 });
+
 
 
 
